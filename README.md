@@ -3,7 +3,7 @@ Project Overview
 
 This project is based on designing and querying a relational database for an Online Bookstore. The database is structured with three main entities: Books, Customers, and Orders. It allows storage, management, and retrieval of information about available books, customer details, and purchase transactions.
 The SQL script demonstrates fundamental database operations such as:
-1)Creating databases and tables with proper relationships.
+\n1)Creating databases and tables with proper relationships.
 2)Importing data from external CSV files.
 3)Executing queries to retrieve, analyze, and summarize information.
 4)The project also covers basic SQL queries (e.g., filtering, aggregation, joins) as well as advanced SQL queries (e.g., finding top-selling books, customer spending analysis, and stock management).
